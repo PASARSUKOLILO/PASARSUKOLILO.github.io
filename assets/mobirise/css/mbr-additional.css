@@ -4912,8 +4912,26 @@ section.lazy-placeholder:after {
 .cid-s0jSMu9FsO .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-s0jRXgHj1p {
-  background-image: url("../../../assets/images/20200528-82307.jpg");
+.cid-s0ltfkh267 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/dji-932-2000x1500.jpg");
+}
+.cid-s0ltfkh267 .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s0ltfkh267 .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-s0ltfkh267 .mbr-figure img {
+    width: 100% !important;
+  }
 }
 .cid-s0jSk3JbC5 {
   padding-top: 60px;
