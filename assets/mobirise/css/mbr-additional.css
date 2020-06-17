@@ -3848,6 +3848,43 @@ section.lazy-placeholder:after {
     padding-bottom: 2rem;
   }
 }
+.cid-s29rYMKySA {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/20200529-083629-kecil-1632x1224.jpg");
+}
+.cid-s29rYMKySA .card-box {
+  padding: 1rem 2rem 2rem;
+}
+.cid-s29rYMKySA h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s29rYMKySA p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-s29rYMKySA .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s29rYMKySA .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s29rYMKySA .mbr-text {
+  color: #767676;
+}
+.cid-s29rYMKySA .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s29rYMKySA .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
 .cid-s0jSMu9FsO .navbar {
   padding: .5rem 0;
   background: #333333;
